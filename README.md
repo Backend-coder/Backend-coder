@@ -1,6 +1,6 @@
-# Assalamu Aleikum 👋, I'm Ali Ahmad
-I'm Ali from Persia currently living & studying in Istanbul. I'm really curious to make more friends and learn more about Computing world.
-I also enjoy Photoshop, UI, UX and design in general.
+# Assalamu Aleikum, I'm Ali Ahmad
+I'm Ali from Persia, currently living & studying in Istanbul. I'm really curious to make more friends and learn more about Computing world.
+I also enjoy improving my UI & UX skills.
 
 ## Skills & Experience : 
 C/C++ | JavaScript | HTML | CSS
